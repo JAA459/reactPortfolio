@@ -8,6 +8,7 @@
       
       
   #### Table of contents ####
+  * [Deployed Link](https://jaa459.github.io/reactPortfolio/)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
@@ -38,3 +39,4 @@
   Email: [JAlexArroyo@gmail.com](JAlexArroyo@gmail.com)
 
   ### Screenshots ###
+  ![alt text](https://github.com/JAA459/reactPortfolio/blob/main/public/assets/images/Screenshot.png)
