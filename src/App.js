@@ -11,7 +11,7 @@ const project = [
   {
     id: 1,
     name: "Burger App",
-    image: "/assets/images/burgerResize.jpg",
+    image: "/public/assets/images/burgerResize.jpg",
     description: "Eat-Da-Burger is a burger logger application with MySQL, Node, Express, Handlebars and a homemade ORM. Showing all the skills necessary to put together a full-stack application with a well organized MVC!",
     url: "https://github.com/JAA459/13-burger"
   },
