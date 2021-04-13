@@ -8,6 +8,7 @@
       
       
   #### Table of contents ####
+  * [Deployed Link](https://jaa459.github.io/reactPortfolio/)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Credits](#credits)
