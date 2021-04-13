@@ -38,3 +38,4 @@
   Email: [JAlexArroyo@gmail.com](JAlexArroyo@gmail.com)
 
   ### Screenshots ###
+  ![alt text](https://github.com/JAA459/reactPortfolio/blob/main/public/assets/images/Screenshot.png)
