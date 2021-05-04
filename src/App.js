@@ -10,10 +10,10 @@ import Contact from './Components/Contact/Contact';
 const project = [
   {
     id: 1,
-    name: "Burger App",
-    image: "assets/images/burgerResize.jpg",
-    description: "Eat-Da-Burger is a burger logger application with MySQL, Node, Express, Handlebars and a homemade ORM. Showing all the skills necessary to put together a full-stack application with a well organized MVC!",
-    url: "https://github.com/JAA459/13-burger"
+    name: "weGolf",
+    image: "assets/images/weGolfResize.jpg",
+    description: "An interactive, secure, and friendly application that brings together the MERN stack allowing users to record, save, and edit their matches all in one go, retrieving data from a highly scalable and secure MySQL database. They can also see how their golf score compares to the other users’ scores across the app. The application uses Firebase authentication to provide a secure and safe passport for users email and password. With implemented functionality for users to update account information and password resets.",
+    url: "https://github.com/Brando2147/weGOLF"
   },
   {
     id: 2,
