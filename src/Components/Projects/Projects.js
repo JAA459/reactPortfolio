@@ -20,7 +20,7 @@ const Projects = (props) => {
                     alt=""
                   /> 
                   <div class="portfolio-box-caption">
-                    <a href={item.githubURL}>GitHub Repository</a>
+                    <a class="text-white-50" href={item.githubURL}>GitHub Repository</a>
                     <div class="project-category text-white-50">{item.name}</div>
                     <div class="project-name">{item.description}</div>
                   </div>
