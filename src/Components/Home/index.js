@@ -13,7 +13,7 @@ const Index = () => {
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Services</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="assets/resume/Resume4.pdf">Resume</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="assets/resume/resume5.pdf">Resume</a></li>
                     </ul>
                 </div>
             </div>
